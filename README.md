@@ -1,3 +1,3 @@
 ### iptv_page
-a IPTV page
+a IPTV test page
 
